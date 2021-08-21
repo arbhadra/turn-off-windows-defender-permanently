@@ -10,7 +10,11 @@ Cause it is super annoying and more useless than sakura.
 
 ## How?
 
-Just download and `run the .reg file as administrator`. [Tutorial!](https://www.tenforums.com/tutorials/5918-how-turn-off-microsoft-defender-antivirus-windows-10-a.html)
+1. Copy the content of the **.reg** file, create a txt file and paste everything there.
+2. Rename the file with fron .txt to `.reg` extension
+3. Run the `.reg` file as administrator. ([Tutorial](https://www.tenforums.com/tutorials/5918-how-turn-off-microsoft-defender-antivirus-windows-10-a.html))
+4. Turn off notifications from defender.
+5. Go watch [Gintama](https://myanimelist.net/anime/918/Gintama).
 
 ## How to undo?
 
