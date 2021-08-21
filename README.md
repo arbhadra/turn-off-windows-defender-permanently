@@ -10,11 +10,11 @@ Cause it is super annoying and more useless than sakura.
 
 ## How?
 
-Just download and `run the .reg file as administrator`.
+Just download and `run the .reg file as administrator`. [Tutorial!](https://www.tenforums.com/tutorials/5918-how-turn-off-microsoft-defender-antivirus-windows-10-a.html)
 
 ## How to undo?
 
-Idk sheesh, google it or something.
+Idk sheesh, google it or check the tutorial or something.
 >THERE IS NO GOING BACK!
 
 But you don't have any reasons to go back, do you?
