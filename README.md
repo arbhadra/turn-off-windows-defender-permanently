@@ -10,7 +10,7 @@ Cause it is super annoying and more useless than sakura.
 
 ## How?
 
-Just download and run the rep file as `administrator`.
+Just download and `run the .reg file as administrator`.
 
 ## How to undo?
 
