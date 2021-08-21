@@ -1,5 +1,6 @@
 # Permanently disable Windows Defender on Windows 10
 
+> I didn't know about this [Win10Debloater](https://github.com/Sycnex/Windows10Debloater). Basically a more sophisticated and enriched version this.
 
 *Easy way to  permanently disable windows defender.*
 
